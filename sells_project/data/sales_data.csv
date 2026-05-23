@@ -1,0 +1,11 @@
+Order_ID,Product,Category,Quantity,Price,Total_Sales,Region
+1001,Laptop,Electronics,2,55000,110000,North
+1002,Mouse,Electronics,5,800,4000,South
+1003,Keyboard,Electronics,3,1500,4500,East
+1004,Chair,Furniture,4,3500,14000,West
+1005,Table,Furniture,2,7000,14000,North
+1006,Notebook,Stationery,10,100,1000,South
+1007,Pen,Stationery,20,20,400,East
+1008,Monitor,Electronics,2,12000,24000,West
+1009,Bag,Accessories,6,900,5400,North
+1010,Bottle,Accessories,8,300,2400,South

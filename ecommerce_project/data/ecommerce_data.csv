@@ -1,0 +1,11 @@
+Order_ID,Customer,Product,Category,Price,Quantity,Total_Amount,Payment_Method
+2001,Amit,Laptop,Electronics,50000,1,50000,UPI
+2002,Riya,Phone,Electronics,25000,2,50000,Card
+2003,Karan,Shoes,Fashion,3000,3,9000,Cash
+2004,Priya,Watch,Accessories,5000,2,10000,UPI
+2005,Rahul,Tshirt,Fashion,1200,5,6000,Card
+2006,Sneha,Headphones,Electronics,2000,4,8000,UPI
+2007,Arjun,Bag,Accessories,1500,3,4500,Cash
+2008,Neha,Tablet,Electronics,18000,1,18000,Card
+2009,Vikas,Jeans,Fashion,2000,2,4000,UPI
+2010,Meera,Perfume,Accessories,2500,2,5000,Cash
